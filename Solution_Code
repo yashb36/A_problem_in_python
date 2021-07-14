@@ -1,0 +1,11 @@
+#the code that calculates how many tiles are needed down below.
+
+area1=4*11
+area2=5*9
+area3=1*1
+no_of_tiles = ((area1+area2)/area3) 
+
+#the code that calculates how many tiles will be left over.
+
+total_tiles=17*6
+result= total_tiles - no_of_tiles 
